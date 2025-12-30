@@ -1,0 +1,11 @@
+mkdir documents
+cd documents
+touch plan.txt
+echo "project reminder: complete linux graded lab asignment." > plan.txt
+ls -l plan.txt
+cp plan.txt plan_copy.txt
+mv documents project_documents
+mkdir archive 
+mv plan_copy.txt archive/ 
+ls -R
+pwd
