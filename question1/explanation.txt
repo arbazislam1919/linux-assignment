@@ -1,0 +1,10 @@
+q1.1 whoami / groups shows the current lpgged in user and the groups the user belongs to
+q1.2 pwd / ls -l displays the current working directory and lists files with details 
+q1.3 echo>user_info.txt creates a file and writes confirmation text into it
+q1.4 wc -m user_info.txt counts the number of characters in the file
+q1.5 displays the manual page to understand the mkdir command options
+q1.6 ls lists the contents of the home directory
+q1.7 grep"admin"log.txt searches and displays lines containing the word "admin" in the log file
+q1.8 uname-r shows the linux kernel version
+q1.9 the ping command sends ICMP packets to google server to tests network connectivity. 
+q1.10 uptime shows how long the system has been running and its load average  
