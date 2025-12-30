@@ -1,0 +1,10 @@
+q4.1 uptime used this command to view how long the system has been running since the last reboot along with load averages
+q4.2 ps -u $USER lists all process cerrently running under my user account
+q4.3 cpu usage analysis : from the process list, process using the highest cpu can be identified by its cpu usage value
+q4.4 sleep 300 &, jobs command was started in the background and verified using the jobs command
+q4.5 renice ,ps-o pid,ni,com : the priority of a running process was changed and verified successfully
+q4.6 free -h displays memory usage in a human readabe form including total used and free memory
+q4.7 df -h shows diskusage details of the filesystem whwre the home directory is located
+q4.8 echoo $SHELL displayed the name of the shell currently being used by the user
+q4.9 system information was redirected and saved into a file named system_report.txt
+q4.10 the ncdu command demonstrates interactive disk usage analysis [tool not installed in this environment ]  
