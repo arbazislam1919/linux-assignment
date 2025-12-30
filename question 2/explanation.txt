@@ -1,0 +1,10 @@
+q2.1 created a directory named documents in the home directory
+q2.2 navigated into the documments directory and created and empty file named plan.tx
+q2.3 added sample project related text to plan.txt and veriefied its contents
+q2.4 displayed the file permissions and ownership details to verify the file belong to my user account
+q2.5 created  copy of plan.txt named plan_copy.txt
+q2.6renamed the documents directory to project_documents for clearer project organisation
+q2.7 created an archive subdirectory inside project_documents
+q2.8 moved plan_copy.txt into the archive directory fr structured storage
+q2.9 listes all files and subdirectories recursively to display the full directory structure
+q2.10 displayed the absolute path of plan_copy.txt 
