@@ -1,0 +1,7 @@
+sleep 300 &
+jobs
+ps -u $USER | grep sleep
+renice 10 -p $(pgrep sleep)
+ps -o pid,ni,comm -p $(pgrep sleep)
+df -h
+du -sh  
