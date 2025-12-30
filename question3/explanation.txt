@@ -1,0 +1,10 @@
+q3.1 created a file named sample_data.txt and added sample content to it
+q3.2  created a hard link named sample_hard.txt pointing to the same inode as sample_data.txt
+q3.3 created a symbolic link named sample _soft.txt that references to sample_data.txt
+q3.4 displayed inode numbers to compare how hard and symbolic links reference files
+q3.5 sample_data.txt and sample_hard.txt share the same inode as hard links points to the same files on the disk, while the symbolic link has different inode 
+q3.6 displayed detailed metadata including permissions , size, timestams, and ownership
+q3.7displayed the total disk usage of the home directory in human readable form
+q3.8 listed files in the home directory with their sizes in a readable form
+q3.9 deleted the symbolic link and verified that the original file remained unaffected
+q3.10 demonstrated disk usage [du] and space usage [df] 
